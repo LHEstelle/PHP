@@ -1,0 +1,9 @@
+body{
+    background-image: url("pexels-alem-sánchez-612790.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn{
+    opacity: 0.8;
+}

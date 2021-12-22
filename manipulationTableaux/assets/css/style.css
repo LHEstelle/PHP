@@ -1,0 +1,15 @@
+body {
+    background-image: url("assets/img/fond.jpg");
+}
+
+.card {
+    width: 50rem;
+    margin: 3rem;
+    box-shadow: 2px 2px;
+    border: solid red 2px;
+}
+
+.img img {
+    height: 20rem;
+    width: auto;
+}
